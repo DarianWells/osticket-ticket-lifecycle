@@ -60,6 +60,7 @@ Assignment and communication
     - Set the dept to System Administrators. Let's say that the System Administrator dept is responsible for the mobile banking platform. Therefore, that dept is best equipped for handling this type of issue.
     - Notice for each change made, there's a ticket thread that keeps a list of any changes made as well as the notes written for each change.
     - Post a reply with an update for the ticket status. This will be visible by the customer and provides a level of transparency when it comes to ticket resolution.
+    - 
 
 
 <p>
