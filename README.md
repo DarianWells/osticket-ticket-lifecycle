@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -28,6 +24,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+Intake
+
+We'll start by creating some tickets through the Users created during the last tutorial (Karen and Ken).
+
+1. Go to the End User osTicket URL: http://localhost/osTicket/
+
+2. Open a new ticket
+
+3. Create a few tickets using the examples provided below.
+
+Assignment and communication
+
+1. Go to the Admin/Agent login page for osTicket: http://localhost/osTicket/scp/login.php
+
+2. Log in as Jane Doe (jane.doe / Password1)
+
+3. You'll notice when we log in as Jane, we are not able to see tickets. We'll have to go back and make some changes to her Agent permissions / setting.
+
+4. Log in as your main admin account
+
+5. 
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
