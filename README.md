@@ -45,7 +45,13 @@ Assignment and communication
 
 4. Log in as your main admin account
 
-5. 
+5. The tickets are visible to the main admin account (while under the Agent panel). Let's make some changes so Jane can view the tickets.
+
+6. Go to the Admin Panel -> Agents -> Jane Doe
+
+7. Under the Access tab, set the Extended Access to the Support dept. Click 'Add' then set the role to Supreme Admin. Save changes.
+
+8. Now log back in as Jane and the tickets will be visible. 
 
 
 
