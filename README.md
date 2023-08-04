@@ -41,7 +41,7 @@ Assignment and communication
 
 2. Log in as Jane Doe (jane.doe / Password1)
 
-3. You'll notice when we log in as Jane, we are not able to see tickets. We'll have to go back and make some changes to her Agent permissions / setting.
+3. You'll notice when we log in as Jane, we are not able to see tickets. We'll have to go back and make some changes to her Agent permissions/settings.
 
 4. Log in as your main admin account
 
@@ -51,8 +51,15 @@ Assignment and communication
 
 7. Under the Access tab, set the Extended Access to the Support dept. Click 'Add' then set the role to Supreme Admin. Save changes.
 
-8. Now log back in as Jane and the tickets will be visible. 
+8. Now log back in as Jane and the tickets will be visible.
 
+9. Let's take a look at the Business Critical Outage ticket. As Jane, we can view the ticket as well as make changes, assignments and updates:
+    - Change the Priority level to Emergency. Because this is a severe business impacting incident, it should be categorized accordingly. You'll notice that you can add in notes the changes made. This is so you can give reasoning and explanation for yourself or other Agents who may view the ticket in the future.
+    - Assign the ticket to yourself (acting as the manager). Tickets with this type of severity level would normally be escalated up to some type of management.
+    - Set the SLA Plan to SEV-A. Again, this is a severe, business impacting incedent. The ticket should be resolved ASAP.
+    - Set the dept to System Administrators. Let's say that the System Administrator dept is responsible for the mobile banking platform. Therefore, that dept is best equipped for handling this type of issue.
+    - Notice for each change made, there's a ticket thread that keeps a list of any changes made as well as the notes written for each change.
+    - Post a reply with an update for the ticket status. This will be visible by the customer and provides a level of transparency when it comes to ticket resolution.
 
 
 <p>
