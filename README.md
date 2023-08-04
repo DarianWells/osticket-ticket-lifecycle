@@ -60,7 +60,13 @@ Assignment and communication
     - Set the dept to System Administrators. Let's say that the System Administrator dept is responsible for the mobile banking platform. Therefore, that dept is best equipped for handling this type of issue.
     - Notice for each change made, there's a ticket thread that keeps a list of any changes made as well as the notes written for each change.
     - Post a reply with an update for the ticket status. This will be visible by the customer and provides a level of transparency when it comes to ticket resolution.
-    - 
+
+
+10. Next lets take a look at the ticket with the entire acounting dept down. This issue is High priority, due to it affecting an entire department. It's not quite as severe as a business outage. We'll have John handle this ticket. Follow the example below and make necessary changes to the ticket.
+
+11. Lastly, lets look at the inquiry about a hardware refresh. Since this is just an inquiry, its low priorty. But we can go ahead and provide the information needed and resolve the ticket (Select 'Resolved' on the Ticket Status drop down before posting a response. The ticket will then appear under the 'Closed' section.
+
+
 
 
 <p>
