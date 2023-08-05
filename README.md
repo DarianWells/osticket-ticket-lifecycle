@@ -51,21 +51,33 @@ Assignment and communication
 
 7. Under the Access tab, set the Extended Access to the Support dept. Click 'Add' then set the role to Supreme Admin. Save changes.
 
-8. Now log back in as Jane and the tickets will be visible.
+8. While here, let's also change John's role, because we left him as view-only in the last tutorial. Go to Admin Panel -> Agents -> Departments. Click on the Support dept and go the Access tab. Give John 'All Access'. Save changes.
 
-9. Let's take a look at the Business Critical Outage ticket. As Jane, we can view the ticket as well as make changes, assignments and updates:
+9. Now log back in as Jane and the tickets will be visible.
+
+10. Let's take a look at the Business Critical Outage ticket. As Jane, we can view the ticket as well as make changes, assignments and updates:
     - Change the Priority level to Emergency. Because this is a severe business impacting incident, it should be categorized accordingly. You'll notice that you can add in notes the changes made. This is so you can give reasoning and explanation for yourself or other Agents who may view the ticket in the future.
     - Assign the ticket to yourself (acting as the manager). Tickets with this type of severity level would normally be escalated up to some type of management.
     - Set the SLA Plan to SEV-A. Again, this is a severe, business impacting incedent. The ticket should be resolved ASAP.
     - Set the dept to System Administrators. Let's say that the System Administrator dept is responsible for the mobile banking platform. Therefore, that dept is best equipped for handling this type of issue.
     - Notice for each change made, there's a ticket thread that keeps a list of any changes made as well as the notes written for each change.
     - Post a reply with an update for the ticket status. This will be visible by the customer and provides a level of transparency when it comes to ticket resolution.
+    - Go ahead and close the ticket by (Select 'Closed' on the Ticket Status drop down before posting a final response.) The ticket will then appear under the 'Closed' section.
+   
+Working The Issue
+
+1. Next lets take a look at the ticket with the entire acounting dept down. This issue is High priority, due to it affecting an entire department. It's not quite as severe as a business outage. We'll have John handle this ticket. Follow the example below and make necessary changes to the ticket.
+
+2. Let's look at the inquiry about a hardware refresh. Since this is just an inquiry, its low priorty. But we can go ahead and provide the information needed and resolve the ticket (Select 'Resolved' on the Ticket Status drop down before posting a response.) The ticket will then appear under the 'Closed' section.
+
+Resolution
+
+1. We'll log in as John and close the final open ticket. He reinstalled the previous version of the sofware and will research the issue with the new version.
+
+2. You can view other closed tickets (under the 'Closed' section in the 'Ticket' tab) and see how other co-workers worked and resolved previous issues. It also serves as good place for learning possible resolutions for common issues that could appear in the future.
 
 
-10. Next lets take a look at the ticket with the entire acounting dept down. This issue is High priority, due to it affecting an entire department. It's not quite as severe as a business outage. We'll have John handle this ticket. Follow the example below and make necessary changes to the ticket.
-
-11. Lastly, lets look at the inquiry about a hardware refresh. Since this is just an inquiry, its low priorty. But we can go ahead and provide the information needed and resolve the ticket (Select 'Resolved' on the Ticket Status drop down before posting a response. The ticket will then appear under the 'Closed' section.
-
+That's it for the ticket lifecycle tutorial. Thank you for reading!
 
 
 
