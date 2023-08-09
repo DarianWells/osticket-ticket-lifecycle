@@ -34,6 +34,9 @@ We'll start by creating some tickets through the Users created during the last t
 2. Open a new ticket
 
 3. Create a few tickets using the examples provided below.
+<img width="420" alt="1 business outage ticket" src="https://github.com/DarianWells/osticket-ticket-lifecycle/assets/132870202/e50c92a6-ed6d-447f-840e-ede9db39ccf9">
+<img width="421" alt="2 accounting dept ticket" src="https://github.com/DarianWells/osticket-ticket-lifecycle/assets/132870202/4a08483d-5d27-4ba1-a3e2-38d987245a85">
+<img width="418" alt="3 general inquiry ticket" src="https://github.com/DarianWells/osticket-ticket-lifecycle/assets/132870202/f0103f00-10fb-4337-8f78-2eef84b83c88">
 
 Assignment and communication
 
